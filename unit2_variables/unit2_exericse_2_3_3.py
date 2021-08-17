@@ -1,4 +1,4 @@
-
+# added comments for this code
 number = int (input("Enter three digits (each digit for one pig)):"))
 first_digit = int(number/100)
 second_digit = (int((number%100)/10))
